@@ -9,7 +9,9 @@ Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Environment: Intellij
+Environment:
+
+![Intellij](https://img.shields.io/badge/Intellij-blue?logo=intellij-idea&logoColor=white)
 
 ## Connect With Me
 
