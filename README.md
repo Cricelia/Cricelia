@@ -15,9 +15,10 @@ Environment:
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/cricelia-p-p-945953358/">
-    <img src="https://img.shields.io/badge/LinkedIn-aquamarine?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white" alt="LinkedIn"/>
-  </a>
+[![LinkedIn Badge](https://us-api.asm.skype.com/v1/objects/0-eus-d7-e4312a44202d6a287248f0d7a17cfe1e/content/original/generated_image.png)](https://www.linkedin.com/in/cricelia-p-p-945953358/)
+
+
+
 
 
 <!--
