@@ -1,5 +1,11 @@
 ## Hi there 👋, I'm Cricelia Prado Perez
 
+##  🌱 I’m currently learning
+
+## Technologies I'm learning
+Languages: Java
+
+Environment: Intellij
 <!--
 **Cricelia/Cricelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
