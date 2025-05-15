@@ -16,7 +16,7 @@ Environment:
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/cricelia-p-p-945953358/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-aquamarine?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white" alt="LinkedIn"/>
   </a>
 
 
