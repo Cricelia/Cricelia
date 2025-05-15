@@ -15,6 +15,9 @@ Environment:
 
 ## Connect With Me
 
+![LinkedIn Badge](https://us-api.asm.skype.com/v1/objects/0-eus-d16-a62b2f6b181d6c7c846f8e4d56a0df68/content/original/generated_image.png)
+
+
 <!--
 **Cricelia/Cricelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
